@@ -17,7 +17,8 @@
 🎓 Computer Engineering Student @ Beykoz University  
 📍 Based in **Istanbul, Türkiye**  
 💼 Building cross-platform mobile apps and web applications  
-🚀 Passionate about creating innovative solutions
+🚀 Passionate about creating innovative solutions  
+🏆 **#1 Faculty Engineering Project Award Winner (2024-2025)**
 
 </div>
 
@@ -51,20 +52,50 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Featured Project: Paradise PC Parts
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErenKaynak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ErenKaynak&theme=radical&hide_border=true&background=0d1117&stroke=f85149&ring=f85149&fire=f85149&currStreakLabel=c9d1d9" />
+
+### 🥇 **#1 Faculty Engineering Project Award Winner**
+**Beykoz University Engineering Faculty (2024-2025)**
+
+[![Paradise PC Parts](https://img.shields.io/badge/🎮_Paradise_PC_Parts-Visit_Project-blue?style=for-the-badge)](https://engineering-project-23d2e.web.app)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/ErenKaynak/Flutter-Project)
+
 </div>
 
+**An intelligent Flutter-based e-commerce platform for PC components with AI assistance**
+
+### ✨ Key Features:
+- 🤖 **AI-Powered Assistant (Tommy)** - Personalized product recommendations
+- 🛍️ **Smart Shopping Experience** - Advanced cart management & multi-tier discounts
+- 🌍 **Multi-Language Support** - EN, TR, AR, UR
+- 🎨 **4 Custom Themes** - Dark mode & color variations
+- 💳 **Digital Wallet System** - Seamless in-app payments
+- 👨‍💼 **Admin Dashboard** - Complete inventory & sales management
+- 🔐 **Google OAuth & Biometric Auth** - Secure authentication
+- 📧 **Automated Email System** - Order confirmations & tracking
+
+### 🛠️ Tech Stack:
+Flutter • Firebase • Node.js • JavaScript • Cloud Functions
+
+[🌐 Live Demo](https://engineering-project-23d2e.web.app) • [📂 Source Code](https://github.com/ErenKaynak/Flutter-Project) • [🏆 Award Ceremony](https://www.beykoz.edu.tr/haber/5620-2024-2025-yilin-muhendislik-projeleri-odul-toreni-ve-sergisi-gerceklesti)
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKaynak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=c9d1d9&langs_count=8&hide=html,css" />
+
+![](https://github-readme-stats.vercel.app/api?username=ErenKaynak&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKaynak&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
   
@@ -74,38 +105,18 @@
 
 ---
 
-## 💻 What I'm Working On
-
-```python
-class ErenKaynak:
-    def __init__(self):
-        self.name = "Eren Kaynak"
-        self.role = "Full Stack Developer"
-        self.location = "Istanbul, Turkey"
-        self.languages = ["Python", "JavaScript", "Dart"]
-        self.frameworks = ["Flutter", "Flask", "Node.js"]
-        self.databases = ["MongoDB", "Firebase", "SQLite"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = ErenKaynak()
-me.say_hi()
-```
-
----
-
 ## 🎯 Current Focus
 
-- 🔭 Building mobile applications with **Flutter**
-- 🌱 Learning advanced **Python** frameworks and best practices
+- 🔭 Building innovative mobile applications with **Flutter**
+- 🌱 Developing AI-powered solutions and integrations
+- 🏆 Working on award-winning engineering projects
 - 👯 Looking to collaborate on open source projects
-- 💬 Ask me about **Python**, **Flutter**, or **JavaScript**
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems
+- 💬 Ask me about **Python**, **Flutter**, **JavaScript**, or **Firebase**
+- ⚡ Fun fact: I love solving complex problems with elegant code
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -119,9 +130,7 @@ me.say_hi()
 
 <div align="center">
 
-### 📈 Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=ErenKaynak&color=f85149&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ErenKaynak&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -129,9 +138,9 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -141,6 +150,6 @@ me.say_hi()
 
 ⭐️ From [ErenKaynak](https://github.com/ErenKaynak) with ❤️
 
-**"Code is like humor. When you have to explain it, it's bad."**
+**"First, solve the problem. Then, write the code."** - John Johnson
 
 </div>
