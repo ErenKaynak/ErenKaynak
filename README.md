@@ -40,28 +40,27 @@ I'm a **Full Stack Developer** passionate about building innovative applications
 
 ---
 
-## 📊 GitHub Stats  
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenKaynak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Eren's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKaynak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" height="180" />
+  
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenKaynak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149&text_color=c9d1d9&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKaynak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85149&text_color=c9d1d9&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErenKaynak&theme=radical&hide_border=true&background=0d1117&stroke=f85149&ring=f85149&fire=f85149&currStreakLabel=c9d1d9)
+
 </div>
+
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenKaynak&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
+  
+![Snake animation](https://raw.githubusercontent.com/ErenKaynak/ErenKaynak/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
----
-
-## 🐍 Contribution Snake  
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErenKaynak/ErenKaynak/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErenKaynak/ErenKaynak/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ErenKaynak/ErenKaynak/output/github-snake.svg" />
-  </picture>
-</div>
 
 ---
 
